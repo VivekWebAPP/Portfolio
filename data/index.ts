@@ -99,7 +99,7 @@ export const projects = [
     des: "A dynamic platform showcasing innovative startups, powered by cutting-edge technology and AI-driven features.",
     img: "/Start_up_application.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/Sanity-logo.svg"],
-    link: "/ui.aiimg.com",
+    link: "https://yc-directory-jxk4.vercel.app/",
   },
   {
     id: 4,
